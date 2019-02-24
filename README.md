@@ -1,4 +1,4 @@
-# OpenGL Algorithms In Matlab
+# OpenGL Algorithms in Matlab
 
 This repository is a collection of Matlab scripts that implement basic OpenGL rendering algorithms
 
