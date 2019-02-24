@@ -1,0 +1,1 @@
+mag1 >> original texture was "32x32" mapped to "300x300" (magnification filter)
